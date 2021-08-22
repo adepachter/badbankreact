@@ -45,7 +45,7 @@ In the future I would like to authenticate using self-built JWT tokens, I don't 
 
 ## Screenshots
 ![Screenshot1]
-(https://zeelandmultimedia.nl/bb/1.png)
+(https://github.com/adepachter/badbankreact/blob/master/img/1.png)
 ![Screenshot2]
 (https://zeelandmultimedia.nl/bb/2.png)
 ![Screenshot3]
