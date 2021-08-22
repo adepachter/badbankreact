@@ -48,3 +48,8 @@ In the future I would like to authenticate using self-built JWT tokens, I don't 
 ![Screenshot2](https://github.com/adepachter/badbankreact/blob/master/img/3.png)
 ![Screenshot3](https://github.com/adepachter/badbankreact/blob/master/img/2.png)
 ![Screenshot4](https://github.com/adepachter/badbankreact/blob/master/img/1.png)
+
+
+## License
+
+MIT - thank you!
