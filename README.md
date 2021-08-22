@@ -44,7 +44,7 @@ Be aware this app is a test, and no valid data should be entered!
 In the future I would like to authenticate using self-built JWT tokens, I don't like Firebase that much.
 
 ## Screenshots
-![Screenshot1](https://github.com/adepachter/badbankreact/blob/master/img/1.png)
-![Screenshot2](https://zeelandmultimedia.nl/bb/2.png)
-![Screenshot3](https://zeelandmultimedia.nl/bb/3.png)
-![Screenshot4](https://zeelandmultimedia.nl/bb/4.png)
+![Screenshot1](https://github.com/adepachter/badbankreact/blob/master/img/4.png)
+![Screenshot2](https://github.com/adepachter/badbankreact/blob/master/img/3.png)
+![Screenshot3](https://github.com/adepachter/badbankreact/blob/master/img/2.png)
+![Screenshot4](https://github.com/adepachter/badbankreact/blob/master/img/1.png)
